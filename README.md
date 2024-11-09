@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi there! I’m an Electronics Engineer with a passion for programming.<br><br>🌱 Currently diving into web development with the MERN stack and Machine Learning.<br><br>👯 Always eager to collaborate on MERN-based projects.<br><br>⚡ Let’s connect and build something amazing together!<br><br><br>
+# 💫 Hi there👋 I'm Chirag!
+I’m an Electronics Engineer with a passion for programming.<br><br>🌱 Currently diving into web development with the MERN stack and Machine Learning.<br><br>👯 Always eager to collaborate on MERN-based projects.<br><br>⚡ Let’s connect and build something amazing together!<br><br><br>
 
 
 ## 🌐 Socials:
